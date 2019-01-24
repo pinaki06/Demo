@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+<Stat> 
+  <Over>RCM</Over>
+  <Run>12</Run>
+</Stat> 
+<Stat> 
+  <Over>RKEM</Over>
+  <Run>20</Run>
+</Stat> 
+<Stat> 
+  <Over>AMPS</Over>
+  <Run>15</Run>
+</Stat>
+<Stat> 
+  <Over>GCSS</Over>
+  <Run>4</Run>
+</Stat>  
+<Stat> 
+  <Over>CODS</Over>
+  <Run>32</Run>
+</Stat> 
+</Root>
